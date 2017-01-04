@@ -7,3 +7,12 @@
 /build
 /captures
 .externalNativeBuild
+.gitignore
+.idea/
+app/build
+app/*iml
+gradle/
+gradlew
+gradlew.bat
+pageanimation/build
+
