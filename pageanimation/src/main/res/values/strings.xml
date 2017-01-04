@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PageAnimation</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="title_activity_normal">NormalActivity</string>
+    <string name="title_activity_style">StyleActivity</string>
+</resources>
